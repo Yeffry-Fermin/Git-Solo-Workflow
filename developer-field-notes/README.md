@@ -13,3 +13,7 @@ One thing you learned about Git.
 --Nothing noteworthy
 
 --I learned how to do basic branching
+
+# Notes
+
+![Alt text for image](screenshot.png)
