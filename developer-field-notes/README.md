@@ -12,4 +12,8 @@ One thing you learned about Git.
 
 --Nothing noteworthy
 
---I learned how to do basic branching
+--I learned how to do basic branching, how to open up issues, merge a branch with your main codebase to close issues. 
+
+# Notes 
+
+![Alt text for image](screenshot.png)
